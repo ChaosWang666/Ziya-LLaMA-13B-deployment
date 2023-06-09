@@ -2,8 +2,8 @@
 ## 大模型部署实战（一）——Ziya-LLaMA-13B
 Ziya-LLaMA-13B是IDEA基于LLaMa的130亿参数的大规模预训练模型，具备翻译，编程，文本分类，信息抽取，摘要，文案生成，常识问答和数学计算等能力。目前姜子牙通用大模型已完成大规模预训练、多任务有监督微调和人类反馈学习三阶段的训练过程。本文主要用于Ziya-LLaMA-13B的本地部署。
 在线体验地址：
-博主自己部署的地址：[http://www.yourmetaverse.cn:39000/](http://www.yourmetaverse.cn:39000/)
-官方部署的地址：[https://modelscope.cn/studios/Fengshenbang/Ziya_LLaMA_13B_v1_online/summary](https://modelscope.cn/studios/Fengshenbang/Ziya_LLaMA_13B_v1_online/summary)
+- 博主自己部署的地址：[http://www.yourmetaverse.cn:39000/](http://www.yourmetaverse.cn:39000/)
+- 官方部署的地址：[https://modelscope.cn/studios/Fengshenbang/Ziya_LLaMA_13B_v1_online/summary](https://modelscope.cn/studios/Fengshenbang/Ziya_LLaMA_13B_v1_online/summary)
 
 ## 1. 部署准备
 ### 1.1 硬件环境
